@@ -1,161 +1,219 @@
 {
     "AD": {
-        "07": "Andorra la Vella",
-        "02": "Canillo",
-        "03": "Encamp",
-        "08": "Escaldes-Engordany",
-        "04": "La Massana",
-        "05": "Ordino",
-        "06": "Sant Julià de Lòria"
+        "level0": {
+            "07": "Andorra la Vella",
+            "02": "Canillo",
+            "03": "Encamp",
+            "08": "Escaldes-Engordany",
+            "04": "La Massana",
+            "05": "Ordino",
+            "06": "Sant Julià de Lòria"
+        }
     },
     "AE": {
-        "AZ": "Abū Zaby",
-        "AJ": "‘Ajmān",
-        "FU": "Al Fujayrah",
-        "SH": "Ash Shāriqah",
-        "DU": "Dubayy",
-        "RK": "R'as al Khaymah",
-        "UQ": "Umm al Qaywayn"
+        "level0": {
+            "AZ": "Abū Zaby",
+            "AJ": "‘Ajmān",
+            "FU": "Al Fujayrah",
+            "SH": "Ash Shāriqah",
+            "DU": "Dubayy",
+            "RK": "R'as al Khaymah",
+            "UQ": "Umm al Qaywayn"
+        }
     },
     "AF": {
-        "BDS": "Badakhshān",
-        "BDG": "Bādghīs",
-        "BGL": "Baghlān",
-        "BAL": "Balkh",
-        "BAM": "Bāmyān",
-        "DAY": "Dāykundī",
-        "FRA": "Farāh",
-        "FYB": "Fāryāb",
-        "GHA": "Ghaznī",
-        "GHO": "Ghōr",
-        "HEL": "Helmand",
-        "HER": "Herāt",
-        "JOW": "Jowzjān",
-        "KAB": "Kābul",
-        "KAN": "Kandahār",
-        "KAP": "Kāpīsā",
-        "KHO": "Khōst",
-        "KNR": "Kunaṟ",
-        "KDZ": "Kunduz",
-        "LAG": "Laghmān",
-        "LOG": "Lōgar",
-        "NAN": "Nangarhār",
-        "NIM": "Nīmrōz",
-        "NUR": "Nūristān",
-        "PKA": "Paktīkā",
-        "PIA": "Paktiyā",
-        "PAN": "Panjshayr",
-        "PAR": "Parwān",
-        "SAM": "Samangān",
-        "SAR": "Sar-e Pul",
-        "TAK": "Takhār",
-        "URU": "Uruzgān",
-        "WAR": "Wardak",
-        "ZAB": "Zābul"
+        "level0": {
+            "BDS": "Badakhshān",
+            "BDG": "Bādghīs",
+            "BGL": "Baghlān",
+            "BAL": "Balkh",
+            "BAM": "Bāmyān",
+            "DAY": "Dāykundī",
+            "FRA": "Farāh",
+            "FYB": "Fāryāb",
+            "GHA": "Ghaznī",
+            "GHO": "Ghōr",
+            "HEL": "Helmand",
+            "HER": "Herāt",
+            "JOW": "Jowzjān",
+            "KAB": "Kābul",
+            "KAN": "Kandahār",
+            "KAP": "Kāpīsā",
+            "KHO": "Khōst",
+            "KNR": "Kunaṟ",
+            "KDZ": "Kunduz",
+            "LAG": "Laghmān",
+            "LOG": "Lōgar",
+            "NAN": "Nangarhār",
+            "NIM": "Nīmrōz",
+            "NUR": "Nūristān",
+            "PKA": "Paktīkā",
+            "PIA": "Paktiyā",
+            "PAN": "Panjshayr",
+            "PAR": "Parwān",
+            "SAM": "Samangān",
+            "SAR": "Sar-e Pul",
+            "TAK": "Takhār",
+            "URU": "Uruzgān",
+            "WAR": "Wardak",
+            "ZAB": "Zābul"
+        }
     },
     "AG": {
-        "03": "Saint George",
-        "04": "Saint John",
-        "05": "Saint Mary",
-        "06": "Saint Paul",
-        "07": "Saint Peter",
-        "08": "Saint Philip",
-        "10": "Barbuda",
-        "11": "Redonda"
+        "level0": {
+            "03": "Saint George",
+            "04": "Saint John",
+            "05": "Saint Mary",
+            "06": "Saint Paul",
+            "07": "Saint Peter",
+            "08": "Saint Philip",
+            "10": "Barbuda",
+            "11": "Redonda"
+        }
     },
     "AL": {
-        "01": "Berat",
-        "09": "Dibër",
-        "02": "Durrës",
-        "03": "Elbasan",
-        "04": "Fier",
-        "05": "Gjirokastër",
-        "06": "Korçë",
-        "07": "Kukës",
-        "08": "Lezhë",
-        "10": "Shkodër",
-        "11": "Tiranë",
-        "12": "Vlorë"
+        "level0": {
+            "01": "Berat",
+            "09": "Dibër",
+            "02": "Durrës",
+            "03": "Elbasan",
+            "04": "Fier",
+            "05": "Gjirokastër",
+            "06": "Korçë",
+            "07": "Kukës",
+            "08": "Lezhë",
+            "10": "Shkodër",
+            "11": "Tiranë",
+            "12": "Vlorë"
+        }
     },
     "AM": {
-        "ER": "Erevan",
-        "AG": "Aragac̣otn",
-        "AR": "Ararat",
-        "AV": "Armavir",
-        "GR": "Geġark'unik'",
-        "KT": "Kotayk'",
-        "LO": "Loṙi",
-        "SH": "Širak",
-        "SU": "Syunik'",
-        "TV": "Tavuš",
-        "VD": "Vayoć Jor"
+        "level0": {
+            "ER": "Erevan",
+            "AG": "Aragac̣otn",
+            "AR": "Ararat",
+            "AV": "Armavir",
+            "GR": "Geġark'unik'",
+            "KT": "Kotayk'",
+            "LO": "Loṙi",
+            "SH": "Širak",
+            "SU": "Syunik'",
+            "TV": "Tavuš",
+            "VD": "Vayoć Jor"
+        }
     },
     "AO": {
-        "BGO": "Bengo",
-        "BGU": "Benguela",
-        "BIE": "Bié",
-        "CAB": "Cabinda",
-        "CNN": "Cunene",
-        "HUA": "Huambo",
-        "HUI": "Huíla",
-        "CCU": "Kuando Kubango",
-        "CNO": "Kuanza Norte",
-        "CUS": "Kuanza Sul",
-        "LUA": "Luanda",
-        "LNO": "Lunda Norte",
-        "LSU": "Lunda Sul",
-        "MAL": "Malange",
-        "MOX": "Moxico",
-        "NAM": "Namibe",
-        "UIG": "Uíge",
-        "ZAI": "Zaire"
+        "level0": {
+            "BGO": "Bengo",
+            "BGU": "Benguela",
+            "BIE": "Bié",
+            "CAB": "Cabinda",
+            "CNN": "Cunene",
+            "HUA": "Huambo",
+            "HUI": "Huíla",
+            "CCU": "Kuando Kubango",
+            "CNO": "Kuanza Norte",
+            "CUS": "Kuanza Sul",
+            "LUA": "Luanda",
+            "LNO": "Lunda Norte",
+            "LSU": "Lunda Sul",
+            "MAL": "Malange",
+            "MOX": "Moxico",
+            "NAM": "Namibe",
+            "UIG": "Uíge",
+            "ZAI": "Zaire"
+        }
     },
     "AR": {
-        "C": "Ciudad Autónoma de Buenos Aires",
-        "B": "Buenos Aires",
-        "K": "Catamarca",
-        "H": "Chaco",
-        "U": "Chubut",
-        "X": "Córdoba",
-        "W": "Corrientes",
-        "E": "Entre Ríos",
-        "P": "Formosa",
-        "Y": "Jujuy",
-        "L": "La Pampa",
-        "F": "La Rioja",
-        "M": "Mendoza",
-        "N": "Misiones",
-        "Q": "Neuquén",
-        "R": "Río Negro",
-        "A": "Salta",
-        "J": "San Juan",
-        "D": "San Luis",
-        "Z": "Santa Cruz",
-        "S": "Santa Fe",
-        "G": "Santiago del Estero",
-        "V": "Tierra del Fuego",
-        "T": "Tucumán"
+        "postal": {
+            "preferredLevel": -1,
+            "postalCodeMinLength": 4,
+            "postalCodeMaxLength": 8,
+            "postalCodeCharacters": "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+            "address": [
+                "A",
+                "B C",
+                "D",
+                "E, F"
+            ]
+        },
+        "level0": {
+            "C": "Ciudad Autónoma de Buenos Aires",
+            "B": "Buenos Aires",
+            "K": "Catamarca",
+            "H": "Chaco",
+            "U": "Chubut",
+            "X": "Córdoba",
+            "W": "Corrientes",
+            "E": "Entre Ríos",
+            "P": "Formosa",
+            "Y": "Jujuy",
+            "L": "La Pampa",
+            "F": "La Rioja",
+            "M": "Mendoza",
+            "N": "Misiones",
+            "Q": "Neuquén",
+            "R": "Río Negro",
+            "A": "Salta",
+            "J": "San Juan",
+            "D": "San Luis",
+            "Z": "Santa Cruz",
+            "S": "Santa Fe",
+            "G": "Santiago del Estero",
+            "V": "Tierra del Fuego",
+            "T": "Tucumán"
+        }
     },
     "AT": {
-        "1": "Burgenland",
-        "2": "Kärnten",
-        "3": "Niederösterreich",
-        "4": "Oberösterreich",
-        "5": "Salzburg",
-        "6": "Steiermark",
-        "7": "Tirol",
-        "8": "Vorarlberg",
-        "9": "Wien"
+        "postal": {
+            "preferredLevel": -1,
+            "postalCodeMinLength": 4,
+            "postalCodeMaxLength": 4,
+            "postalCodeCharacters": "0123456789",
+            "address": [
+                "A",
+                "I",
+                "B C",
+                "E F"
+            ]
+        },
+        "level0": {
+            "1": "Burgenland",
+            "2": "Kärnten",
+            "3": "Niederösterreich",
+            "4": "Oberösterreich",
+            "5": "Salzburg",
+            "6": "Steiermark",
+            "7": "Tirol",
+            "8": "Vorarlberg",
+            "9": "Wien"
+        }
     },
     "AU": {
-        "NSW": "New South Wales",
-        "QLD": "Queensland",
-        "SA": "South Australia",
-        "TAS": "Tasmania",
-        "VIC": "Victoria",
-        "WA": "Western Australia",
-        "ACT": "Australian Capital Territory",
-        "NT": "Northern Territory"
+        "postal": {
+            "preferredLevel": 0,
+            "usesAbbreviation": true,
+            "postalCodeMinLength": 4,
+            "postalCodeMaxLength": 4,
+            "postalCodeCharacters": "0123456789",
+            "address": [
+                "A",
+                "",
+                "I",
+                "C B",
+                "G  H  E",
+            ]
+        },
+        "level0": {
+            "NSW": "New South Wales",
+            "QLD": "Queensland",
+            "SA": "South Australia",
+            "TAS": "Tasmania",
+            "VIC": "Victoria",
+            "WA": "Western Australia",
+            "ACT": "Australian Capital Territory",
+            "NT": "Northern Territory"
+        }
     },
     "AZ": {
         "postal": {
@@ -245,9 +303,11 @@
         }
     },
     "BA": {
-        "BIH": "Federacija Bosna i Hercegovina",
-        "SRP": "Republika Srpska",
-        "BRC": "Brčko distrikt"
+        "level0": {
+            "BIH": "Federacija Bosna i Hercegovina",
+            "SRP": "Republika Srpska",
+            "BRC": "Brčko distrikt"
+        }
     },
     "BB": {
         "01": "Christ Church",
@@ -264,7 +324,18 @@
     },
     "BD": {
         "postal": {
-            "preferredLevel": 1
+            "preferredLevel": 1,
+            "usesAbbreviation": false,
+            "postalCodeMinLength": 4,
+            "postalCodeMaxLength": 4,
+            "postalCodeCharacters": "0123456789",
+            "address": [
+                "A",
+                "I",
+                "D",
+                "B C",
+                "F-E"
+            ]
         },
         "level0": {
             "A": "Barisal",
@@ -626,13 +697,15 @@
         "ST": "Sowa Town"
     },
     "BY": {
-        "BR": "Brestskaya voblasts'",
-        "HO": "Homyel'skaya voblasts’",
-        "HR": "Hrodnenskaya voblasts'",
-        "MA": "Mahilyowskaya voblasts'",
-        "MI": "Minskaya voblasts'",
-        "VI": "Vitsyebskaya voblasts'",
-        "HM": "Horad Minsk"
+        "level0": {
+            "BR": "Brestskaya voblasts'",
+            "HO": "Homyel'skaya voblasts’",
+            "HR": "Hrodnenskaya voblasts'",
+            "MA": "Mahilyowskaya voblasts'",
+            "MI": "Minskaya voblasts'",
+            "VI": "Vitsyebskaya voblasts'",
+            "HM": "Horad Minsk"
+        }
     },
     "BZ": {
         "BZ": "Belize",
