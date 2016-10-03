@@ -201,7 +201,7 @@
                 "",
                 "I",
                 "C B",
-                "G  H  E",
+                "G  H  E"
             ]
         },
         "level0": {
@@ -344,7 +344,7 @@
             "D": "Khulna",
             "E": "Rajshahi",
             "F": "Rangpur",
-            "G": "Sylhet",
+            "G": "Sylhet"
         },
         "level1": {
             "05": "Bagerhat",
@@ -1126,8 +1126,8 @@
         "AR": "Arta",
         "DI": "Dikhil",
         "OB": "Obock",
-        "TA": "Tadjourah"
-        "DJ": "Djibouti",
+        "TA": "Tadjourah",
+        "DJ": "Djibouti"
     },
     "DK": {
         "84": "Hovedstaden",
@@ -1162,7 +1162,7 @@
             "39": "Higuamo",
             "40": "Ozama",
             "41": "Valdesia",
-            "42": "Yuma",
+            "42": "Yuma"
         },
         "level1": {
             "01": "Distrito Nacional (Santo Domingo)",
@@ -1419,8 +1419,8 @@
         "HA": "Hārerī Hizb / Harari People",
         "OR": "Oromīya / Oromia",
         "SO": "Sumalē / Somali",
-        "TI": "Tigray / Tigrai"
-        "SN": "YeDebub Bihēroch Bihēreseboch na Hizboch / Southern Nations, Nationalities and Peoples",
+        "TI": "Tigray / Tigrai",
+        "SN": "YeDebub Bihēroch Bihēreseboch na Hizboch / Southern Nations, Nationalities and Peoples"
     },
     "FI": {
         "01": "Ahvenanmaan maakunta / Landskapet Åland",
@@ -1685,7 +1685,7 @@
             "CMN": "Carmarthenshire / Sir Gaerfyrddin",
             "CCG": "Causeway Coast and Glens",
             "CBF": "Central Bedfordshire",
-            "CGN": "Ceredigion / Sir Ceredigion"
+            "CGN": "Ceredigion / Sir Ceredigion",
             "CHE": "Cheshire East",
             "CHW": "Cheshire West and Chester",
             "CLK": "Clackmannanshire",
@@ -2100,7 +2100,7 @@
             "CA": "Cacheu",
             "GA": "Gabú",
             "OI": "Oio",
-            "QU": "Quinara"
+            "QU": "Quinara",
             "TO": "Tombali"
         }
     },
@@ -2269,7 +2269,7 @@
     "IE": {
         "postal": {
             "preferredLevel": 1
-        }
+        },
         "level0": {
             "C": "Connaught",
             "L": "Leinster",
@@ -2342,7 +2342,7 @@
             "MZ": "Mizoram",
             "NL": "Nagaland",
             "OR": "Odisha",
-            "PY": "Puducherry"
+            "PY": "Puducherry",
             "PB": "Punjab",
             "RJ": "Rajasthan",
             "SK": "Sikkim",
@@ -2852,7 +2852,7 @@
         "08": "Micoud",
         "10": "Soufrière",
         "11": "Vieux Fort"
-    }
+    },
     "LI": {
         "01": "Balzers",
         "02": "Eschen",
@@ -3799,7 +3799,7 @@
         "MT": "Matagalpa",
         "NS": "Nueva Segovia",
         "RI": "Rivas",
-        "SJ": "Río San Juan",
+        "SJ": "Río San Juan"
     },
     "NL": {
         "AW": "Aruba",
@@ -3846,17 +3846,16 @@
     },
     "NP": {
         "postal": {
-            "div_include": false,
-            "div_name": "region"
+            "preferredLevel": -1
         },
-        "names": {
+        "level0": {
             "1": "Madhyamanchal",
             "2": "Madhya Pashchimanchal",
             "3": "Pashchimanchal",
             "4": "Purwanchal",
             "5": "Sudur Pashchimanchal"
         }
-    }
+    },
     "NR": {
         "01": "Aiwo",
         "02": "Anabar",
@@ -4020,7 +4019,7 @@
         "ZP": "Zachodniopomorskie"
     },
     "PS": {
-        "BTH": "Bethlehem" 
+        "BTH": "Bethlehem",
         "DEB": "Deir El Balah", 
         "GZA": "Gaza",
         "HBN": "Hebron", 
@@ -4029,14 +4028,14 @@
         "JEM": "Jerusalem",
         "KYS": "Khan Yunis",
         "NBS": "Nablus",
-        "NGZ": "North Gaza" 
+        "NGZ": "North Gaza",
         "QQA": "Qalqilya", 
         "RFH": "Rafah",
         "RBH": "Ramallah", 
         "SLT": "Salfit", 
         "TBS": "Tubas", 
         "TKM": "Tulkarm" 
-    }
+    },
     "PT": {
         "01": "Aveiro",
         "02": "Beja",
@@ -4080,20 +4079,20 @@
     "PY": {
         "ASU": "Asunción",
         "11": "Central",
-        "16": "Alto Paraguay",": 
+        "16": "Alto Paraguay",
         "10": "Alto Paraná",
         "13": "Amambay",
         "19": "Boquerón",
         "5": "Caaguazú",
         "6": "Caazapá",
-        "14": "Canindeyú",": 
-        "1": "Concepción",": 
-        "3": "Cordillera",": 
+        "14": "Canindeyú",
+        "1": "Concepción",
+        "3": "Cordillera",
         "4": "Guairá",
         "7": "Itapúa",
         "8": "Misiones",
         "9": "Paraguarí",
-        "15": "Presidente Hayes",": 
+        "15": "Presidente Hayes",
         "2": "San Pedro",
         "12": "Ñeembucú"
     },
@@ -4104,7 +4103,7 @@
         "RA": "Ar Rayyān",
         "MS": "Ash Shamāl",
         "ZA": "Az̧ Za̧`āyin",
-        "US": "Umm Şalāl",
+        "US": "Umm Şalāl"
     },
     "RO": {
         "AB": "Alba",
@@ -4857,7 +4856,7 @@
         "MF": "Manufahi",
         "OE": "Oecussi",
         "VI": "Viqueque"
-    }
+    },
     "TM": {
         "A": "Ahal",
         "B": "Balkan",
@@ -5272,7 +5271,7 @@
         "UM": "United States Minor Outlying Islands",
         "UT": "Utah",
         "VT": "Vermont",
-        "VI": "Virgin Islands"
+        "VI": "Virgin Islands",
         "VA": "Virginia",
         "WA": "Washington",
         "WV": "West Virginia",
@@ -5334,7 +5333,7 @@
         "G": "Carabobo",
         "H": "Cojedes",
         "Y": "Delta Amacuro",
-        "W": "Dependencias Federales"
+        "W": "Dependencias Federales",
         "A": "Distrito Capital",
         "I": "Falcón",
         "J": "Guárico",
