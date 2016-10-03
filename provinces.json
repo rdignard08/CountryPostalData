@@ -712,7 +712,17 @@
     },
     "BS": {
         "postal": {
-            "preferredLevel": 0
+            "preferredLevel": 0,
+            "usesAbbreviation": true,
+            "postalCodeMinLength": 6,
+            "postalCodeMaxLength": 6,
+            "postalCodeCharacters": "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+            "address": [
+                "A",
+                "I",
+                "C B",
+                "F H EE E"
+            ]
         },
         "level0": {
             "A.K": "Acklins",
